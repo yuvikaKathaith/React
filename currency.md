@@ -1,5 +1,4 @@
 # notes for currency converter app
-
 ## api link
 
 ```javascript
@@ -49,9 +48,6 @@ function InputBox({
 }
 
 export default InputBox;
-
-```
-
 
 ## app js
 
